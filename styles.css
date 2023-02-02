@@ -1,0 +1,82 @@
+body {
+
+    background-color: antiquewhite;
+    padding: 20px;
+    padding-bottom: 500px;
+    }   
+    p {
+    color: green;
+    font-size: 30px;
+    } 
+
+    .Meu-Paragrafo {
+        background-color: black;
+        color: red;
+    }
+
+    #Titulo-Principal {
+        background-color: rgb(255, 255, 255);
+        color: black;
+        padding: 10px;
+        font-family: Helvetica;
+    }
+
+    *{
+    font-family: arial;
+    }
+
+    p,
+    h1 {
+        border-bottom: 2px solid brown;
+    }
+
+    /*Cores*/
+
+    .nome-da-cor {
+        color: pink;
+    }
+
+    .hexa {
+        color: #324597;
+        background-color: #9c5c773b;
+    }
+
+    .rgb {
+        color: rgb(100,200,220);
+    }
+
+    /*Fontes*/
+    .serifada{
+        font-family: Georgia;    
+    }
+
+    .sem-serifa{
+        font-family: Helvetica;    
+
+    }
+    .monoespacada{
+        font-family: 'Courier New';
+    }
+
+    /*Size e weight*/
+
+    .tamanho-fonte-grande{
+        font-size: 64px;
+    }
+
+    .tamanho-fonte-pequena{
+        font-size: 12px;
+    }
+
+    .fonte-peso{
+        font-weight: 700;
+    }
+
+    /* Box Model*/
+    .box-model{
+        width: 200px;
+        height: 100px;
+        border: 2px solid brown;
+        padding: 20px;
+        margin: 20px;
+    }
