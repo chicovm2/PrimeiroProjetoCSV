@@ -80,3 +80,10 @@ body {
         padding: 20px;
         margin: 20px;
     }
+
+    /* Propriedades de Texto */
+
+    .alinhamento {
+        text-align: center;
+    }
+
